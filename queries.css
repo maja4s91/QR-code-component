@@ -1,0 +1,5 @@
+@media (max-width: 36em) {
+  .qr-container {
+    max-width: 80%;
+  }
+}
