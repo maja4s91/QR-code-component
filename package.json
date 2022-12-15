@@ -1,0 +1,20 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maja4s91/QR-code-component.git"
+  },
+  "author": "Maja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maja4s91/QR-code-component/issues"
+  },
+  "homepage": "https://github.com/maja4s91/QR-code-component#readme"
+}
