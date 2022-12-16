@@ -33,7 +33,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 1.8rem;
+  gap: 2.1rem;
   max-width: 21%;
   text-align: center;
   background-color: hsl(0, 0%, 100%);
@@ -50,7 +50,7 @@ body {
 .qr-text {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 1.3rem;
   padding: 0 1.6rem 1.8rem;
 }
 .qr-m {
