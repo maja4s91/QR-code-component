@@ -1,8 +1,4 @@
 @media (max-width: 36em) {
-  body {
-    height: 100vh;
-    overflow-y: hidden;
-  }
   .qr-container {
     max-width: 80%;
   }
