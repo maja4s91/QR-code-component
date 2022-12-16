@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maja4s91/QR-code-component/issues"
   },
-  "homepage": "https://github.com/maja4s91/QR-code-component#readme"
+  "homepage": "https://github.com/maja4s91/QR-code-component#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
 }
