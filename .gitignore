@@ -19,3 +19,7 @@ dist
 README-template.md
 style-guide.md
 node_modules
+package-lock.json
+package.json
+README.md
+style-guide.md
